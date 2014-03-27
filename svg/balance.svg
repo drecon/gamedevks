@@ -29,13 +29,13 @@
    guidetolerance="10"
    inkscape:pageopacity="0"
    inkscape:pageshadow="2"
-   inkscape:window-width="1680"
-   inkscape:window-height="988"
+   inkscape:window-width="1152"
+   inkscape:window-height="802"
    id="namedview252"
    showgrid="false"
-   inkscape:zoom="0.71920047"
-   inkscape:cx="372.04724"
-   inkscape:cy="526.18109"
+   inkscape:zoom="1.1"
+   inkscape:cx="206.81977"
+   inkscape:cy="889.35024"
    inkscape:window-x="-8"
    inkscape:window-y="-8"
    inkscape:window-maximized="1"
@@ -388,30 +388,35 @@
    class="fil1 fnt0"
    y="1631"
    x="725">Balanceamento</text>
+
 <text
    style="font-size:317.5px;font-weight:normal;fill:#373435;font-family:Arial"
    id="text194"
    class="fil1 fnt1"
    y="963"
    x="5217">ID do Cenário:</text>
+
 <text
    style="font-size:317.5px;font-weight:normal;fill:#373435;font-family:Arial"
    id="text196"
    class="fil1 fnt1"
    y="985"
    x="7843">O que você está balanceando?</text>
+
 <text
    style="font-size:317.5px;font-weight:normal;fill:#373435;font-family:Arial"
    id="text198"
    class="fil1 fnt1"
    y="983"
    x="14991">ID:</text>
+
 <text
    style="font-size:317.5px;font-weight:normal;fill:#373435;font-family:Arial"
    id="text200"
    class="fil1 fnt1"
    y="1081"
    x="17538">Pág. atual / final</text>
+
 <g
    id="_690164016">
    <line
@@ -438,18 +443,21 @@
    class="fil1 fnt2"
    y="1681"
    x="5438">CEN__</text>
+
 <text
    style="font-size:493.88000488px;font-weight:normal;fill:#373435;font-family:Arial"
    id="text210"
    class="fil1 fnt2"
    y="1701"
    x="15350">BAL__</text>
+
 <text
    style="font-size:846.66998291px;font-weight:normal;fill:#373435;font-family:Arial"
    id="text212"
    class="fil1 fnt3"
    y="1912"
    x="18777">/</text>
+
 <g
    id="_690152144">
    <line
@@ -496,6 +504,7 @@
    class="fil1 fnt4"
    y="23103"
    x="859">Hipótese</text>
+
 <line
    style="fill:none;stroke:#373435;stroke-width:20"
    id="line228"
@@ -509,6 +518,7 @@
    class="fil1 fnt4"
    y="23096"
    x="8619">Resultado alcançado</text>
+
 <line
    style="fill:none;stroke:#373435;stroke-width:20"
    id="line232"
@@ -522,45 +532,31 @@
    class="fil1 fnt4"
    y="23113"
    x="15075">Tomada de decisão</text>
+
 <line
    style="fill:none;stroke:#373435;stroke-width:20"
    id="line236"
-   y2="4705"
+   y2="3181.0029"
    x2="20405"
-   y1="4705"
+   y1="3181.0029"
    x1="548"
-   class="fil0 str0" /><line
-   style="fill:none;stroke:#373435;stroke-width:20"
-   id="line238"
-   y2="4705"
-   x2="5088"
-   y1="2121"
-   x1="548"
-   class="fil0 str0" /><text
-   style="font-size:352.76998901px;font-weight:normal;fill:#e6e7e8;font-family:Arial"
-   id="text240"
-   class="fil2 fnt5"
-   y="3687"
-   x="930">Inimigos</text>
+   class="fil0 str0" />
+
 <text
-   style="font-size:352.76998901px;font-weight:normal;fill:#e6e7e8;font-family:Arial"
-   id="text242"
-   class="fil2 fnt5"
-   y="4082"
-   x="930">e obstáculos</text>
-<text
-   style="font-size:388.04998779px;font-weight:normal;fill:#e6e7e8;font-family:Arial"
+   style="font-size:677.33337402px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:Arial;-inkscape-font-specification:Arial"
    id="text244"
    class="fil2 fnt6"
-   y="2992"
-   x="2378">Habilidades</text>
+   y="2889.3755"
+   x="10316.147"
+   sodipodi:linespacing="125%">Potencialidades</text>
+
 <line
    style="fill:none;stroke:#373435;stroke-width:20"
    id="line246"
-   y2="22598"
-   x2="5074"
-   y1="2121"
-   x1="5074"
+   y2="22633.922"
+   x2="8948.1416"
+   y1="2156.9189"
+   x1="8948.1416"
    class="fil0 str0" /><line
    style="fill:none;stroke:#373435;stroke-width:20"
    id="line248"
@@ -572,7 +568,63 @@
    style="font-size:564.44000244px;font-weight:normal;fill:#373435;font-family:Arial"
    id="text250"
    class="fil1 fnt0"
-   y="3793"
+   y="2777.002"
    x="18045">Total</text>
 
-</svg>
+
+<text
+   style="font-size:677.33337402px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-rule:evenodd;font-family:Arial;-inkscape-font-specification:Arial"
+   id="text244-1"
+   class="fil2 fnt6"
+   y="2870.78"
+   x="3043.124"
+   sodipodi:linespacing="125%">Dificuldades</text>
+<line
+   style="fill:none;stroke:#373435;stroke-width:20"
+   id="line246-7"
+   y2="22620.846"
+   x2="7363.4341"
+   y1="3220.366"
+   x1="7363.4341"
+   class="fil0 str0" /><line
+   style="fill:none;stroke:#373435;stroke-width:20"
+   id="line246-7-4"
+   y2="22569.533"
+   x2="15984.041"
+   y1="3169.0522"
+   x1="15984.041"
+   class="fil0 str0" /><text
+   style="font-size:317.5px;font-weight:normal;fill:#373435;fill-rule:evenodd;font-family:Arial"
+   id="text194-0"
+   class="fil1 fnt1"
+   y="3541.165"
+   x="668.20184">Descrição</text>
+<text
+   style="font-size:317.5px;font-weight:normal;fill:#373435;fill-rule:evenodd;font-family:Arial"
+   id="text194-0-9"
+   class="fil1 fnt1"
+   y="3570.3879"
+   x="7533.4277">Valor</text>
+<text
+   style="font-size:317.5px;font-weight:normal;fill:#373435;fill-rule:evenodd;font-family:Arial"
+   id="text194-0-4"
+   class="fil1 fnt1"
+   y="3541.165"
+   x="9071.8428">Descrição</text>
+<text
+   style="font-size:317.5px;font-weight:normal;fill:#373435;fill-rule:evenodd;font-family:Arial"
+   id="text194-0-9-8"
+   class="fil1 fnt1"
+   y="3570.3879"
+   x="16162.847">Valor</text>
+<g
+   transform="translate(9.432834e-5,1614.555)"
+   style="fill-rule:evenodd"
+   id="_690347200-8"><line
+     style="fill:none;stroke:#373435;stroke-width:20"
+     id="line190-2"
+     y2="2121"
+     x2="20405"
+     y1="2121"
+     x1="548"
+     class="fil0 str1" /></g></svg>

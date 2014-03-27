@@ -27,16 +27,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.04"
-     inkscape:cx="359.24717"
+     inkscape:zoom="0.89"
+     inkscape:cx="287.25209"
      inkscape:cy="570.62781"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1280"
-     inkscape:window-height="712"
-     inkscape:window-x="-4"
-     inkscape:window-y="-4"
+     inkscape:window-width="1024"
+     inkscape:window-height="706"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata7">
@@ -46,7 +46,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -70,7 +70,7 @@
          style="fill:#ffffff;fill-opacity:0.58288772;stroke:#000000;stroke-opacity:1" />
     </g>
     <rect
-       y="366.15182"
+       y="364.59216"
        x="263.75409"
        height="211.47501"
        width="209.83606"
@@ -93,16 +93,16 @@
        sodipodi:linespacing="125%"
        id="text2985-1-4-9"
        y="402.05801"
-       x="297.8512"
+       x="309.8512"
        style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
        xml:space="preserve"
        inkscape:export-filename="C:\xampp\htdocs\gamedevks\help\gmc.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          y="402.05801"
-         x="297.8512"
+         x="309.8512"
          id="tspan2987-7-0-4"
-         sodipodi:role="line">Gameplay</tspan></text>
+         sodipodi:role="line">Mecânica</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text2985-1"
@@ -116,14 +116,14 @@
          y="400.87045"
          x="110.56647"
          id="tspan2987-7"
-         sodipodi:role="line">Roteiro</tspan></text>
+         sodipodi:role="line">Narrativas</tspan></text>
     <rect
-       y="364.59171"
+       y="364.11267"
        x="471.95099"
-       height="131.05563"
+       height="211.95451"
        width="209.83606"
        id="rect3954-15"
-       style="fill:#99ff55;fill-opacity:0.58288772;stroke:none"
+       style="fill:#b6ff87;fill-opacity:1;stroke:none"
        inkscape:export-filename="C:\xampp\htdocs\gamedevks\help\gmc.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -131,69 +131,21 @@
        sodipodi:linespacing="125%"
        id="text2985-1-4"
        y="399.23111"
-       x="535.01923"
+       x="527.01923"
        style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
        xml:space="preserve"
        inkscape:export-filename="C:\xampp\htdocs\gamedevks\help\gmc.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          y="399.23111"
-         x="535.01923"
+         x="527.01923"
          id="tspan2987-7-0"
-         sodipodi:role="line">Visual</tspan></text>
-    <rect
-       y="574.52612"
-       x="53.361"
-       height="126.2295"
-       width="626.82153"
-       id="rect3954-6"
-       style="fill:#cccccc;fill-opacity:0.58288772;stroke:none"
-       inkscape:export-filename="C:\xampp\htdocs\gamedevks\help\gmc.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <text
-       sodipodi:linespacing="125%"
-       id="text2985-1-2-2"
-       y="603.12537"
-       x="285.39072"
-       style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
-       xml:space="preserve"
-       inkscape:export-filename="C:\xampp\htdocs\gamedevks\help\gmc.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"><tspan
-         y="603.12537"
-         x="285.39072"
-         id="tspan2987-7-4-3"
-         sodipodi:role="line">Programação</tspan></text>
-    <rect
-       y="494.16544"
-       x="471.95081"
-       height="80.327858"
-       width="209.83606"
-       id="rect3954-6-2"
-       style="fill:#b3ff80;fill-opacity:0.58288772;stroke:none"
-       inkscape:export-filename="C:\xampp\htdocs\gamedevks\help\gmc.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <text
-       sodipodi:linespacing="125%"
-       id="text2985-1-8"
-       y="518.25238"
-       x="545.18909"
-       style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
-       xml:space="preserve"
-       inkscape:export-filename="C:\xampp\htdocs\gamedevks\help\gmc.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"><tspan
-         y="518.25238"
-         x="545.18909"
-         id="tspan2987-7-8"
-         sodipodi:role="line">Som</tspan></text>
+         sodipodi:role="line">Estética</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
-       x="270.30643"
-       y="341.11957"
+       x="272.46375"
+       y="334.49036"
        id="text2985"
        sodipodi:linespacing="125%"
        inkscape:export-filename="C:\xampp\htdocs\gamedevks\help\gmc.png"
@@ -201,13 +153,13 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan2987"
-         x="270.30643"
-         y="341.11957">- Game Model Canvas</tspan></text>
+         x="272.46375"
+         y="334.49036">- Game Model Canvas</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
-       x="304.95081"
-       y="435.96875"
+       x="311.198"
+       y="431.15146"
        id="text4270"
        sodipodi:linespacing="125%"
        inkscape:export-filename="C:\xampp\htdocs\gamedevks\help\gmc.png"
@@ -215,29 +167,29 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan4272"
-         x="304.95081"
-         y="435.96875">-Balance</tspan><tspan
+         x="311.198"
+         y="431.15146">-Balance</tspan><tspan
          sodipodi:role="line"
-         x="304.95081"
-         y="460.96875"
+         x="311.198"
+         y="456.15146"
          id="tspan4299">-Gameplay</tspan><tspan
          sodipodi:role="line"
-         x="304.95081"
-         y="485.96875"
+         x="311.198"
+         y="481.15146"
          id="tspan4353">-Items</tspan><tspan
          sodipodi:role="line"
-         x="304.95081"
-         y="510.96875"
+         x="311.198"
+         y="506.15146"
          id="tspan4355">-Iterations</tspan><tspan
          sodipodi:role="line"
-         x="304.95081"
-         y="535.96875"
+         x="311.198"
+         y="531.15143"
          id="tspan4383">-Scene</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
-       x="111.4105"
-       y="433.17371"
+       x="113.65769"
+       y="431.3956"
        id="text4270-6"
        sodipodi:linespacing="125%"
        inkscape:export-filename="C:\xampp\htdocs\gamedevks\help\gmc.png"
@@ -245,33 +197,33 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan4272-8"
-         x="111.4105"
-         y="433.17371">-Cast</tspan><tspan
+         x="113.65769"
+         y="431.3956">-Cast</tspan><tspan
          sodipodi:role="line"
-         x="111.4105"
-         y="458.17371"
+         x="113.65769"
+         y="456.3956"
          id="tspan4295">-Character</tspan><tspan
          sodipodi:role="line"
-         x="111.4105"
-         y="483.17371"
+         x="113.65769"
+         y="481.3956"
          id="tspan4297">-Cutscene</tspan><tspan
          sodipodi:role="line"
-         x="111.4105"
-         y="508.17371"
+         x="113.65769"
+         y="506.3956"
          id="tspan4301">-Hero´s Journey</tspan><tspan
          sodipodi:role="line"
-         x="111.4105"
-         y="533.17371"
+         x="113.65769"
+         y="531.39557"
          id="tspan4303">-History</tspan><tspan
          sodipodi:role="line"
-         x="111.4105"
-         y="558.17371"
+         x="113.65769"
+         y="556.39557"
          id="tspan4385">-Talk</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
-       x="511.08749"
-       y="430.1618"
+       x="530.57062"
+       y="431.3956"
        id="text4270-5"
        sodipodi:linespacing="125%"
        inkscape:export-filename="C:\xampp\htdocs\gamedevks\help\gmc.png"
@@ -279,30 +231,12 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan4272-7"
-         x="511.08749"
-         y="430.1618">-Interface</tspan><tspan
+         x="530.57062"
+         y="431.3956">-Interface</tspan><tspan
          sodipodi:role="line"
-         x="511.08749"
-         y="455.1618"
+         x="530.57062"
+         y="456.3956"
          id="tspan4299-6">-Sketh</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
-       x="306.65659"
-       y="634.36951"
-       id="text4270-5-2"
-       sodipodi:linespacing="125%"
-       inkscape:export-filename="C:\xampp\htdocs\gamedevks\help\gmc.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"><tspan
-         sodipodi:role="line"
-         x="306.65659"
-         y="634.36951"
-         id="tspan4299-6-9">-Rules</tspan><tspan
-         sodipodi:role="line"
-         x="306.65659"
-         y="659.36951"
-         id="tspan4387">-Tecnologies</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text2985-1-5"
@@ -318,38 +252,87 @@
          id="tspan2987-7-4"
          sodipodi:role="line">Ideia do Jogo</tspan></text>
     <rect
-       style="fill:#333333;fill-opacity:1;stroke:none"
-       id="rect4412"
-       width="28.17647"
-       height="360.23529"
-       x="64.136703"
-       y="271.19482"
-       inkscape:export-filename="C:\xampp\htdocs\gamedevks\help\gmc.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <path
-       style="fill:#333333;fill-opacity:1;stroke:none"
-       d="m 53.944391,629.12548 c 15.586652,-0.63779 32.970585,-0.79224 48.563169,-0.55949 -8.14051,14.07883 -16.248073,28.17675 -24.396357,42.25108 C 70.404566,656.1072 63.452715,644.06676 53.944391,629.12548 z"
-       id="path4423"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccc"
+       y="572.39349"
+       x="51.757774"
+       height="126.2295"
+       width="627.94513"
+       id="rect3954-6"
+       style="fill:#f2f2f2;fill-opacity:1;stroke:none"
        inkscape:export-filename="C:\xampp\htdocs\gamedevks\help\gmc.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <text
-       xml:space="preserve"
-       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
-       x="-562.92084"
-       y="85.340584"
-       id="text4425"
        sodipodi:linespacing="125%"
-       transform="matrix(-0.00105615,-0.99999944,0.99999944,-0.00105615,0,0)"
+       id="text2985-1-2-2"
+       y="606.99274"
+       x="292.9111"
+       style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       xml:space="preserve"
+       inkscape:export-filename="C:\xampp\htdocs\gamedevks\help\gmc.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         y="606.99274"
+         x="292.9111"
+         id="tspan2987-7-4-3"
+         sodipodi:role="line">Tecnologia</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="304.17697"
+       y="638.23688"
+       id="text4270-5-2"
+       sodipodi:linespacing="125%"
        inkscape:export-filename="C:\xampp\htdocs\gamedevks\help\gmc.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
-         id="tspan4427"
-         x="-562.92084"
-         y="85.340584">FLUXO DE PROCESSOS</tspan></text>
+         x="304.17697"
+         y="638.23688"
+         id="tspan4299-6-9">-Rules</tspan><tspan
+         sodipodi:role="line"
+         x="304.17697"
+         y="663.23688"
+         id="tspan4387">-Tecnologies</tspan></text>
+    <g
+       transform="translate(3.7964964,1.5809569)"
+       id="g3863">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\xampp\htdocs\gamedevks\help\gmc.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path4423"
+         d="m 53.944391,629.12548 c 15.586652,-0.63779 32.970585,-0.79224 48.563169,-0.55949 -8.14051,14.07883 -16.248073,28.17675 -24.396357,42.25108 C 70.404566,656.1072 63.452715,644.06676 53.944391,629.12548 z"
+         style="fill:#333333;fill-opacity:1;stroke:none" />
+      <g
+         id="g3798">
+        <rect
+           style="fill:#333333;fill-opacity:1;stroke:none"
+           id="rect4412"
+           width="28.17647"
+           height="360.23529"
+           x="64.136703"
+           y="271.19482"
+           inkscape:export-filename="C:\xampp\htdocs\gamedevks\help\gmc.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <text
+           xml:space="preserve"
+           style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+           x="-562.92084"
+           y="85.340584"
+           id="text4425"
+           sodipodi:linespacing="125%"
+           transform="matrix(-0.00105615,-0.99999944,0.99999944,-0.00105615,0,0)"
+           inkscape:export-filename="C:\xampp\htdocs\gamedevks\help\gmc.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90"><tspan
+             sodipodi:role="line"
+             id="tspan4427"
+             x="-562.92084"
+             y="85.340584">FLUXO DE PROCESSOS</tspan></text>
+      </g>
+    </g>
   </g>
 </svg>

@@ -17,13 +17,13 @@
    viewBox="0 0 21000 29700"
    id="svg2"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="balance.pdf"
+   sodipodi:docname="balance.svg"
    inkscape:export-filename="C:\xampp\htdocs\gamedevks\svg\balance.png"
    inkscape:export-xdpi="108"
    inkscape:export-ydpi="108"><metadata
    id="metadata254"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><sodipodi:namedview
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><sodipodi:namedview
    pagecolor="#ffffff"
    bordercolor="#666666"
    borderopacity="1"
@@ -36,9 +36,9 @@
    inkscape:window-height="706"
    id="namedview252"
    showgrid="false"
-   inkscape:zoom="1.16"
-   inkscape:cx="362.4379"
-   inkscape:cy="891.19381"
+   inkscape:zoom="2.4423438"
+   inkscape:cx="337.67958"
+   inkscape:cy="973.08236"
    inkscape:window-x="-8"
    inkscape:window-y="-8"
    inkscape:window-maximized="1"
@@ -393,36 +393,41 @@
    x="725">Balanceamento</text>
 
 
+
 <text
    style="font-size:317.5px;font-weight:normal;fill:#373435;font-family:Arial"
    id="text194"
    class="fil1 fnt1"
    y="963"
-   x="5217">ID do Cenário:</text>
+   x="5217">Scene ID:</text>
+
 
 
 <text
    style="font-size:317.5px;font-weight:normal;fill:#373435;font-family:Arial"
    id="text196"
    class="fil1 fnt1"
-   y="985"
+   y="963.15503"
    x="7843">O que você está balanceando?</text>
+
 
 
 <text
    style="font-size:317.5px;font-weight:normal;fill:#373435;font-family:Arial"
    id="text198"
    class="fil1 fnt1"
-   y="983"
-   x="14991">ID:</text>
+   y="959.12427"
+   x="15103.889">Balance ID:</text>
+
 
 
 <text
    style="font-size:317.5px;font-weight:normal;fill:#373435;font-family:Arial"
    id="text200"
    class="fil1 fnt1"
-   y="1081"
+   y="963"
    x="17538">Pág. atual / final</text>
+
 
 
 <g
@@ -445,20 +450,10 @@
    y1="2121"
    x1="17320"
    class="fil0 str1" />
-  </g><text
-   style="font-size:493.88000488px;font-weight:normal;fill:#373435;font-family:Arial"
-   id="text208"
-   class="fil1 fnt2"
-   y="1681"
-   x="5438">CEN__</text>
+  </g>
 
 
-<text
-   style="font-size:493.88000488px;font-weight:normal;fill:#373435;font-family:Arial"
-   id="text210"
-   class="fil1 fnt2"
-   y="1701"
-   x="15350">BAL__</text>
+
 
 
 <text
@@ -467,6 +462,7 @@
    class="fil1 fnt3"
    y="1912"
    x="18777">/</text>
+
 
 
 <g
@@ -517,6 +513,7 @@
    x="859">Hipótese</text>
 
 
+
 <line
    style="fill:none;stroke:#373435;stroke-width:20"
    id="line228"
@@ -532,6 +529,7 @@
    x="8619">Resultado alcançado</text>
 
 
+
 <line
    style="fill:none;stroke:#373435;stroke-width:20"
    id="line232"
@@ -545,6 +543,7 @@
    class="fil1 fnt4"
    y="23113"
    x="15075">Tomada de decisão</text>
+
 
 
 <line
@@ -563,6 +562,7 @@
    y="2889.3755"
    x="10316.147"
    sodipodi:linespacing="125%">Potencialidades</text>
+
 
 
 <line
@@ -588,6 +588,7 @@
 
 
 
+
 <text
    style="font-size:677.33337402px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-rule:evenodd;font-family:Arial;-inkscape-font-specification:Arial"
    id="text244-1"
@@ -595,6 +596,7 @@
    y="2870.78"
    x="3043.124"
    sodipodi:linespacing="125%">Dificuldades</text>
+
 
 <line
    style="fill:none;stroke:#373435;stroke-width:20"
@@ -617,12 +619,14 @@
    y="3541.165"
    x="668.20184">Descrição</text>
 
+
 <text
    style="font-size:317.5px;font-weight:normal;fill:#373435;fill-rule:evenodd;font-family:Arial"
    id="text194-0-9"
    class="fil1 fnt1"
    y="3570.3879"
    x="7533.4277">Valor</text>
+
 
 <text
    style="font-size:317.5px;font-weight:normal;fill:#373435;fill-rule:evenodd;font-family:Arial"
@@ -631,12 +635,14 @@
    y="3541.165"
    x="9071.8428">Descrição</text>
 
+
 <text
    style="font-size:317.5px;font-weight:normal;fill:#373435;fill-rule:evenodd;font-family:Arial"
    id="text194-0-9-8"
    class="fil1 fnt1"
    y="3570.3879"
    x="16162.847">Valor</text>
+
 
 <g
    transform="translate(9.432834e-5,1614.555)"
@@ -677,4 +683,5 @@
      id="tspan3140"
      x="13064.942"
      y="22255.172">Dificuldade do Cenário</tspan></text>
+
 </svg>

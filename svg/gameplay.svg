@@ -17,10 +17,10 @@
    viewBox="0 0 21000 29700"
    id="svg2"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="gameplay.pdf"><metadata
+   sodipodi:docname="gameplay.svg"><metadata
    id="metadata293"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><sodipodi:namedview
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><sodipodi:namedview
    pagecolor="#ffffff"
    bordercolor="#666666"
    borderopacity="1"
@@ -33,9 +33,9 @@
    inkscape:window-height="706"
    id="namedview291"
    showgrid="false"
-   inkscape:zoom="0.79"
-   inkscape:cx="401.60767"
-   inkscape:cy="452.51724"
+   inkscape:zoom="1.6633203"
+   inkscape:cx="376.11847"
+   inkscape:cy="948.8072"
    inkscape:window-x="-8"
    inkscape:window-y="-8"
    inkscape:window-maximized="1"
@@ -397,30 +397,35 @@
    class="fil1 fnt0"
    y="1635"
    x="909">Cenários</text>
+
 <text
    style="font-size:317.5px;font-weight:normal;fill:#373435;font-family:Arial"
    id="text182"
    class="fil1 fnt1"
    y="963"
-   x="5317">ID do GMC:</text>
+   x="5429.8887">GMC ID:</text>
+
 <text
    style="font-size:317.5px;font-weight:normal;fill:#373435;font-family:Arial"
    id="text184"
    class="fil1 fnt1"
-   y="985"
+   y="963.15503"
    x="7843">O objetivo é:</text>
+
 <text
    style="font-size:317.5px;font-weight:normal;fill:#373435;font-family:Arial"
    id="text186"
    class="fil1 fnt1"
-   y="983"
-   x="15181">ID:</text>
+   y="963"
+   x="15293.889">Scene ID:</text>
+
 <text
    style="font-size:317.5px;font-weight:normal;fill:#373435;font-family:Arial"
    id="text188"
    class="fil1 fnt1"
-   y="1081"
-   x="17538">Pág. atual / final</text>
+   y="963"
+   x="17707.336">Pág. atual / final</text>
+
 <g
    id="_693582224">
    <line
@@ -441,24 +446,15 @@
    y1="2166"
    x1="17485"
    class="fil0 str1" />
-  </g><text
-   style="font-size:493.88000488px;font-weight:normal;fill:#373435;font-family:Arial"
-   id="text196"
-   class="fil1 fnt2"
-   y="1681"
-   x="5438">GMC__</text>
-<text
-   style="font-size:493.88000488px;font-weight:normal;fill:#373435;font-family:Arial"
-   id="text198"
-   class="fil1 fnt2"
-   y="1701"
-   x="15350">CNS__</text>
+  </g>
+
 <text
    style="font-size:846.66998291px;font-weight:normal;fill:#373435;font-family:Arial"
    id="text200"
    class="fil1 fnt0"
    y="1912"
    x="18777">/</text>
+
 <g
    id="_694197776">
    <line
@@ -521,18 +517,21 @@
    class="fil1 fnt0"
    y="4704"
    x="2454">Ansiedade</text>
+
 <text
    style="font-size:846.66998291px;font-weight:normal;fill:#373435;font-family:Arial"
    id="text222"
    class="fil1 fnt0"
    y="19018"
    x="14519">Tédio</text>
+
 <text
    style="font-size:493.88000488px;font-weight:normal;fill:#373435;font-family:Arial"
    id="text224"
    class="fil1 fnt2"
    y="3461"
    x="15101">Canal de fluxo do jogo</text>
+
 <g
    id="g226"
    transform="matrix(0,-0.68274372,0.68274372,0,-8228.7544,26074.514)">
@@ -542,6 +541,7 @@
    class="fil1 fnt3"
    y="14850"
    x="10500">Desafios</text>
+
 
   </g><path
    style="fill:none;stroke:#d2d3d5;stroke-width:20"
@@ -587,6 +587,7 @@
    class="fil4 fnt4"
    y="21620"
    x="2239">Lista de cenários</text>
+
 <g
    id="_694187408">
    <line
@@ -630,6 +631,7 @@
    class="fil1 fnt5"
    y="22102"
    x="2265">Nome Cenário</text>
+
 <line
    style="fill:none;stroke:#373435;stroke-width:20"
    id="line255"
@@ -664,12 +666,14 @@
    class="fil1 fnt5"
    y="22103"
    x="7947">ID Cenário</text>
+
 <text
    style="font-size:352.76998901px;font-weight:normal;fill:#373435;font-family:Arial"
    id="text265"
    class="fil1 fnt5"
    y="22111"
    x="11431">ID Balanceamento</text>
+
 <line
    style="fill:none;stroke:#373435;stroke-width:20"
    id="line267"
@@ -754,6 +758,7 @@
    y="22113"
    x="15287">Dificuldade</text>
 
+
 <text
    xml:space="preserve"
    style="font-size:564.44445801px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
@@ -765,6 +770,7 @@
      id="tspan4042"
      x="1957.8254"
      y="3282.4937">_____ Dificuldade máxima</tspan></text>
+
 <path
    sodipodi:type="arc"
    style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.12598419;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
@@ -794,6 +800,7 @@
      id="tspan4077"
      x="1763.4379"
      y="20699.119">0</tspan></text>
+
 <text
    style="font-size:564.44445801px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#373435;font-family:Arial;-inkscape-font-specification:Arial"
    id="text230"
@@ -801,6 +808,7 @@
    y="20536.365"
    x="2653.8804"
    sodipodi:linespacing="125%">Tempo de jogabilidade</text>
+
 <g
    id="g4187"><rect
      transform="scale(1,-1)"
@@ -840,6 +848,7 @@
      id="tspan4042-8"
      x="12585.488"
      y="20382.432">Tempo máximo ____</tspan></text>
+
 <path
    sodipodi:type="arc"
    style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2.12598419;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"

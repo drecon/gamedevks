@@ -29,13 +29,13 @@
    guidetolerance="10"
    inkscape:pageopacity="0"
    inkscape:pageshadow="2"
-   inkscape:window-width="1024"
-   inkscape:window-height="706"
+   inkscape:window-width="1152"
+   inkscape:window-height="802"
    id="namedview514"
    showgrid="false"
-   inkscape:zoom="1.4998244"
-   inkscape:cx="412.93583"
-   inkscape:cy="998.5875"
+   inkscape:zoom="0.979333"
+   inkscape:cx="356.0968"
+   inkscape:cy="934.76083"
    inkscape:window-x="-8"
    inkscape:window-y="-8"
    inkscape:window-maximized="1"
@@ -470,30 +470,35 @@
    class="fil1 fnt0"
    y="1651"
    x="925">Cenário</text>
+
 <text
    style="font-size:317.5px;font-weight:normal;fill:#373435;font-family:Arial"
    id="text206"
    class="fil1 fnt1"
    y="963"
    x="5317">Gameplay ID:</text>
+
 <text
    style="font-size:317.5px;font-weight:normal;fill:#373435;font-family:Arial"
    id="text208"
    class="fil1 fnt1"
    y="963.15503"
    x="7843">O objetivo é:</text>
+
 <text
    style="font-size:317.5px;font-weight:normal;fill:#373435;font-family:Arial"
    id="text210"
    class="fil1 fnt1"
    y="963"
    x="15103.889">Scene ID:</text>
+
 <text
    style="font-size:317.5px;font-weight:normal;fill:#373435;font-family:Arial"
    id="text212"
    class="fil1 fnt1"
    y="963"
    x="17538">Pág. atual / final</text>
+
 <g
    id="_833172224">
    <line
@@ -520,12 +525,14 @@
    class="fil1 fnt1"
    y="2601"
    x="918">Legenda:</text>
+
 <text
    style="font-size:846.66998291px;font-weight:normal;fill:#373435;font-family:Arial"
    id="text226"
    class="fil1 fnt0"
    y="1912"
    x="18777">/</text>
+
 <g
    id="_833103680">
    <line
@@ -559,15 +566,16 @@
    class="fil1 fnt1"
    y="6008"
    x="952">Esboço:</text>
+
 <rect
-   style="fill:none;stroke:#373435;stroke-width:20"
+   style="fill:none;stroke:#c0beb6;stroke-width:20;stroke-opacity:1"
    id="rect238"
    height="486"
    width="486"
    y="3621"
    x="965"
    class="fil0 str0" /><ellipse
-   style="fill:none;stroke:#373435;stroke-width:20"
+   style="fill:none;stroke:#bab9b3;stroke-width:20;stroke-opacity:1"
    sodipodi:ry="260"
    sodipodi:rx="251"
    sodipodi:cy="4594"
@@ -578,37 +586,42 @@
    cy="4594"
    cx="1191"
    class="fil0 str0" /><polygon
-   style="fill:none;stroke:#373435;stroke-width:20"
+   style="fill:none;stroke:#b7bcb2;stroke-width:20;stroke-opacity:1"
    id="polygon242"
    points="1221,2950 976,3386 1468,3396 "
    class="fil0 str0" /><text
-   style="font-size:447.44000244px;font-weight:normal;fill:#373435;font-family:Arial"
+   style="font-size:447.44000244000000000px;font-weight:normal;fill:#cccccc;font-family:Arial"
    id="text244"
    class="fil1 fnt3"
    y="3327"
    x="1702">Interação</text>
+
 <text
-   style="font-size:447.44000244px;font-weight:normal;fill:#373435;font-family:Arial"
+   style="font-size:447.44000244000000000px;font-weight:normal;fill:#cccccc;font-family:Arial"
    id="text246"
    class="fil1 fnt3"
    y="4023"
    x="1721">Item</text>
+
 <text
-   style="font-size:447.44000244px;font-weight:normal;fill:#373435;font-family:Arial"
+   style="font-size:447.44000244000000000px;font-weight:normal;fill:#cccccc;font-family:Arial"
    id="text248"
    class="fil1 fnt3"
    y="4757"
    x="1712">Inicio</text>
+
 <text
-   style="font-size:447.45999146px;font-weight:normal;fill:#373435;font-family:Arial"
+   style="font-size:447.45999146000003000px;font-weight:normal;fill:#cccccc;font-family:Arial"
    id="text250"
    class="fil1 fnt4"
    y="4723"
    x="4898">Derrota</text>
+
 <g
-   id="_832951808">
+   id="_832951808"
+   style="stroke:#c5c6c8;stroke-opacity:1">
    <ellipse
-   style="fill:none;stroke:#373435;stroke-width:20"
+   style="fill:none;stroke:#c5c6c8;stroke-width:20;stroke-opacity:1"
    sodipodi:ry="260"
    sodipodi:rx="251"
    sodipodi:cy="4581"
@@ -620,7 +633,7 @@
    cx="4396"
    class="fil0 str0" />
    <line
-   style="fill:none;stroke:#373435;stroke-width:20"
+   style="fill:none;stroke:#c5c6c8;stroke-width:20;stroke-opacity:1"
    id="line255"
    y2="4377"
    x2="4552"
@@ -628,7 +641,7 @@
    x1="4227"
    class="fil0 str0" />
    <line
-   style="fill:none;stroke:#373435;stroke-width:20"
+   style="fill:none;stroke:#c5c6c8;stroke-width:20;stroke-opacity:1"
    id="line257"
    y2="4740"
    x2="4595"
@@ -636,42 +649,40 @@
    x1="4188"
    class="fil0 str0" />
   </g><polygon
-   style="fill:none;stroke:#373435;stroke-width:20"
+   style="fill:none;stroke:#c8c6c8;stroke-width:20;stroke-opacity:1"
    id="polygon259"
    points="4541,3649 4384,3812 4499,4110 4225,4109 4351,3815 4199,3644 "
    class="fil0 str0" /><text
-   style="font-size:447.44000244px;font-weight:normal;fill:#373435;font-family:Arial"
+   style="font-size:447.44000244000000000px;font-weight:normal;fill:#cccccc;font-family:Arial"
    id="text261"
    class="fil1 fnt3"
    y="4112"
    x="4881">Vitória</text>
-<polygon
-   style="fill:none;stroke:#373435;stroke-width:20"
-   id="polygon263"
-   points="4268,3194 4144,3414 4392,3419 "
-   class="fil0 str0" /><polygon
-   style="fill:none;stroke:#373435;stroke-width:20"
-   id="polygon265"
-   points="4518,3194 4394,3414 4642,3419 "
-   class="fil0 str0" /><text
-   style="font-size:447.44000244px;font-weight:normal;fill:#373435;font-family:Arial"
+
+<g
+   id="g4029"
+   style="stroke:#c8c6c8;stroke-opacity:1"><polygon
+     class="fil0 str0"
+     points="4268,3194 4144,3414 4392,3419 "
+     id="polygon263"
+     style="fill:none;stroke:#c8c6c8;stroke-width:20;stroke-opacity:1" /><polygon
+     class="fil0 str0"
+     points="4518,3194 4394,3414 4642,3419 "
+     id="polygon265"
+     style="fill:none;stroke:#c8c6c8;stroke-width:20;stroke-opacity:1" /></g><text
+   style="font-size:447.44000244000000000px;font-weight:normal;fill:#cccccc;font-family:Arial"
    id="text267"
    class="fil1 fnt3"
    y="3461"
    x="4848">Obstáculo</text>
-<line
-   style="fill:none;stroke:#373435;stroke-width:20"
-   id="line269"
-   y2="3503"
-   x2="7368"
-   y1="3139"
-   x1="7646"
-   class="fil0 str0" /><text
-   style="font-size:447.44000244px;font-weight:normal;fill:#373435;font-family:Arial"
+
+<text
+   style="font-size:447.44000244000000000px;font-weight:normal;fill:#cccccc;font-family:Arial"
    id="text271"
    class="fil1 fnt3"
    y="3471"
    x="7866">Inimigo</text>
+
 <line
    style="fill:none;stroke:#373435;stroke-width:20"
    id="line273"
@@ -687,70 +698,80 @@
    y1="2743"
    x1="7046"
    class="fil0 str0" /><g
-   id="_832898992">
-   <line
-   style="fill:none;stroke:#373435;stroke-width:20"
-   id="line278"
-   y2="3492"
-   x2="7678"
-   y1="3128"
-   x1="7346"
-   class="fil0 str0" />
-   <line
-   style="fill:none;stroke:#373435;stroke-width:20"
-   id="line280"
-   y2="3503"
-   x2="7368"
-   y1="3139"
-   x1="7646"
-   class="fil0 str0" />
-  </g><line
-   style="fill:none;stroke:#373435;stroke-width:20"
-   id="line282"
-   y2="4156"
-   x2="7635"
-   y1="3792"
-   x1="7303"
-   class="fil0 str0" /><line
-   style="fill:none;stroke:#373435;stroke-width:20"
-   id="line284"
-   y2="4166"
-   x2="7271"
-   y1="3813"
-   x1="7731"
-   class="fil0 str0" /><line
-   style="fill:none;stroke:#373435;stroke-width:20"
-   id="line286"
-   y2="4198"
-   x2="7485"
-   y1="3813"
-   x1="7507"
-   class="fil0 str0" /><line
-   style="fill:none;stroke:#373435;stroke-width:20"
-   id="line288"
-   y2="4016"
-   x2="7764"
-   y1="3963"
-   x1="7228"
-   class="fil0 str0" /><text
-   style="font-size:447.44000244px;font-weight:normal;fill:#373435;font-family:Arial"
+   id="_832898992"
+   style="stroke:#c5c6c8;stroke-opacity:1"
+   transform="translate(-53.038994,-7.7175764)">
+   
+   <g
+   id="g4021"
+   style="stroke:#c5c6c8;stroke-opacity:1"><g
+     id="g4025"
+     style="stroke:#c5c6c8;stroke-opacity:1"><line
+       style="fill:none;stroke:#c5c6c8;stroke-width:20;stroke-opacity:1"
+       id="line278"
+       y2="3492"
+       x2="7678"
+       y1="3128"
+       x1="7346"
+       class="fil0 str0" /><line
+       style="fill:none;stroke:#c5c6c8;stroke-width:20;stroke-opacity:1"
+       id="line280"
+       y2="3503"
+       x2="7368"
+       y1="3139"
+       x1="7646"
+       class="fil0 str0" /></g></g>
+  </g><g
+   id="g4015"
+   style="fill:#e6e6e6;stroke:#c5c1c4;stroke-opacity:1"><line
+     class="fil0 str0"
+     x1="7303"
+     y1="3792"
+     x2="7635"
+     y2="4156"
+     id="line282"
+     style="fill:#e6e6e6;stroke:#c5c1c4;stroke-width:20;stroke-opacity:1" /><line
+     class="fil0 str0"
+     x1="7731"
+     y1="3813"
+     x2="7271"
+     y2="4166"
+     id="line284"
+     style="fill:#e6e6e6;stroke:#c5c1c4;stroke-width:20;stroke-opacity:1" /><line
+     class="fil0 str0"
+     x1="7507"
+     y1="3813"
+     x2="7485"
+     y2="4198"
+     id="line286"
+     style="fill:#e6e6e6;stroke:#c5c1c4;stroke-width:20;stroke-opacity:1" /><line
+     class="fil0 str0"
+     x1="7228"
+     y1="3963"
+     x2="7764"
+     y2="4016"
+     id="line288"
+     style="fill:#e6e6e6;stroke:#c5c1c4;stroke-width:20;stroke-opacity:1" /></g><text
+   style="font-size:447.44000244000000000px;font-weight:normal;fill:#cccccc;font-family:Arial"
    id="text290"
    class="fil1 fnt3"
    y="4135"
    x="7879">Chefe</text>
+
 <line
-   style="fill:none;stroke:#373435;stroke-width:20"
+   style="fill:none;stroke:#373435;stroke-width:20;stroke-opacity:0.31746033"
    id="line292"
    y2="3253"
    x2="10879"
    y1="3253"
    x1="10397"
    class="fil0 str0" /><text
-   style="font-size:447.44000244px;font-weight:normal;fill:#373435;font-family:Arial"
+   style="font-size:447.44000244000000000px;font-weight:normal;fill:#cccccc;font-family:Arial"
    id="text294"
    class="fil1 fnt3"
    y="3397"
    x="11036">Chão</text>
+
 <line
    style="fill:none;stroke:#373435;stroke-width:20"
    id="line296"
@@ -785,6 +806,7 @@
    class="fil1 fnt1"
    y="26688"
    x="988">Exemplo:</text>
+
 <rect
    style="fill:none;stroke:#373435;stroke-width:20"
    id="rect306"
@@ -805,9 +827,10 @@
    id="path310"
    d="m 6340,27269 c -641,-1203 -839,-529 -1699,-218 -1210,438 298,1690 1452,1103 655,-333 969,-563 246,-885 z"
    class="fil0 str0" /><g
-   id="_832664848">
+   id="_832664848"
+   style="stroke:#c5c6c8;stroke-opacity:1">
    <ellipse
-   style="fill:none;stroke:#373435;stroke-width:20"
+   style="fill:none;stroke:#c5c6c8;stroke-width:20;stroke-opacity:1"
    sodipodi:ry="106"
    sodipodi:rx="89"
    sodipodi:cy="4456"
@@ -819,7 +842,7 @@
    cx="7537"
    class="fil0 str0" />
    <line
-   style="fill:none;stroke:#373435;stroke-width:20"
+   style="fill:none;stroke:#c5c6c8;stroke-width:20;stroke-opacity:1"
    id="line315"
    y2="4794"
    x2="7565"
@@ -827,12 +850,12 @@
    x1="7558"
    class="fil0 str0" />
    <polyline
-   style="fill:none;stroke:#373435;stroke-width:20"
+   style="fill:none;stroke:#c5c6c8;stroke-width:20;stroke-opacity:1"
    id="polyline317"
    points="7722,4600 7561,4643 7401,4615 "
    class="fil0 str0" />
    <line
-   style="fill:none;stroke:#373435;stroke-width:20"
+   style="fill:none;stroke:#c5c6c8;stroke-width:20;stroke-opacity:1"
    id="line319"
    y2="4979"
    x2="7466"
@@ -840,7 +863,7 @@
    x1="7565"
    class="fil0 str0" />
    <line
-   style="fill:none;stroke:#373435;stroke-width:20"
+   style="fill:none;stroke:#c5c6c8;stroke-width:20;stroke-opacity:1"
    id="line321"
    y2="4964"
    x2="7657"
@@ -848,11 +871,12 @@
    x1="7564"
    class="fil0 str0" />
   </g><text
-   style="font-size:447.44000244px;font-weight:normal;fill:#373435;font-family:Arial"
+   style="font-size:447.44000244000000000px;font-weight:normal;fill:#cccccc;font-family:Arial"
    id="text323"
    class="fil1 fnt3"
    y="4786"
    x="7891">Jogador</text>
+
 <ellipse
    style="fill:none;stroke:#373435;stroke-width:20"
    sodipodi:ry="114"
@@ -865,18 +889,19 @@
    cy="27788"
    cx="4654"
    class="fil0 str0" /><line
-   style="fill:none;stroke:#373435;stroke-width:20;stroke-dasharray:100, 100"
+   style="fill:none;stroke:#373435;stroke-width:20;stroke-dasharray:100, 100;stroke-opacity:0.31746033"
    id="line327"
    y2="3838"
    x2="10866"
    y1="3838"
    x1="10416"
    class="fil0 str2" /><text
-   style="font-size:447.44000244px;font-weight:normal;fill:#373435;font-family:Arial"
+   style="font-size:447.44000244000000000px;font-weight:normal;fill:#cccccc;font-family:Arial"
    id="text329"
    class="fil1 fnt3"
    y="3981"
    x="11055">Rota</text>
+
 <line
    style="fill:none;stroke:#373435;stroke-width:20;stroke-dasharray:40, 100"
    id="line331"
@@ -1601,11 +1626,13 @@
    class="fil1 fnt5"
    y="27512"
    x="8726">1</text>
+
 <text
    style="font-size:282.22000122px;font-weight:normal;fill:#373435;font-family:Arial"
    id="text512"
    class="fil1 fnt5"
    y="26954"
    x="9686">2</text>
+
 
 </svg>

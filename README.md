@@ -8,3 +8,5 @@ Em cima da ideia do jogo, organizada pelo [GMC](http://www.drecon.com.br/GMC/pt-
 Esta ferramenta pode ser usada tanto de forma física imprimindo os PDF, como digital utilizando os canvas no formato PNG através do [Murally](https://mural.ly/)
 
 [Wiki](https://github.com/drecon/gamedevks/wiki) - Mais detalhes sobre cada canvas.
+
+[Dúvida, melhorias](https://github.com/drecon/gamedevks/issues) - Nos ajude a melhorar a ferramenta.

@@ -9,4 +9,4 @@ Esta ferramenta pode ser usada tanto de forma física imprimindo os PDF, como di
 
 [Wiki](https://github.com/drecon/gamedevks/wiki) - Mais detalhes sobre cada canvas.
 
-[Dúvida, melhorias](https://github.com/drecon/gamedevks/issues) - Nos ajude a melhorar a ferramenta.
+[Dúvidas ou melhorias](https://github.com/drecon/gamedevks/issues) - Nos ajude a melhorar a ferramenta.
